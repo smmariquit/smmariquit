@@ -13,7 +13,7 @@ Right now I'm particularly interested in studying data science, game development
 - Able to use Git for distributed workflows
 
 # Languages
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stimmieuwu&theme=rradical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stimmieuwu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hobbies, Fun Facts
 - 🚌 Travelling, commuting around Metro Manila
