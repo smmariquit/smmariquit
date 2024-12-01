@@ -6,4 +6,13 @@ While CS and the theoretical concepts behind it really interests me, I understan
 
 Right now I'm particularly interested in studying data science, game development, and computer vision. I'd love to be part of your project!
 
+# Skillset
+- 3 years of experience in simple programming with Python and C
+- Minimal experience with OOP with Java
+- Moderate experience in using cloud servers
+- Able to use Git for distributed workflows
+
+# Languages
+[![Stimmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stimmieuwu)](https://github.com/anuraghazra/github-readme-stats)
+
 Reach me at semariquit@gmail.com.
