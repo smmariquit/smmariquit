@@ -14,6 +14,10 @@ Right now I'm particularly interested in studying data science, game development
 
 # Languages
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stimmieuwu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Python/Java
+- C
+- HTML/CSS/JS
+- R
 
 # Hobbies, Fun Facts
 - 🚌 Travelling, commuting around Metro Manila
