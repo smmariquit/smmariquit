@@ -13,6 +13,11 @@ Right now I'm particularly interested in studying data science, game development
 - Able to use Git for distributed workflows
 
 # Languages
-[![Stimmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stimmieuwu)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stimmieuwu&theme=rradical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Hobbies, Fun Facts
+- 🚌 Travelling, commuting around Metro Manila
+- 🏋️‍♀️ Going to the gym (SBD: 100, 60, 150)
+- 🤝 Meeting new people 
 
 Reach me at semariquit@gmail.com.
