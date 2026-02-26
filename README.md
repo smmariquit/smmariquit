@@ -2,7 +2,7 @@
 
 Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might know me better as Stimmie. 
 - I own a Minecraft server called [The Crib](crib.stimmie.dev)!
-- Former Lead @ [HearthCraft](https://hearthcraft.net), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
+- Former Lead @ [HearthCraft](https://hearthcraft.stimmie.dev), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
 - Co-founder of [Pizza & Friends](https://joinpizza.fun), a not-so-serious tech community.
 - Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jan 2026)
 - Joined and organized 30+ hackathons, game jams, and design challenges—met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
@@ -35,6 +35,6 @@ Right now I'm particularly interested in studying advanced web development, data
 - 📃 Taking photowalks, writing
 - 🤝 Meeting new people
 - 🎬 Watching and analyzing films. I have an [IMDb page](https://www.imdb.com/name/nm12149035/)! 
-- [![My last film](https://letterboxd-badge.vercel.app/?username=stimmie)](https://letterboxd.com/stimmie/)
+- [![My last film](https://letterboxd-badge.vercel.app/?username=stimmieuwu)](https://letterboxd.com/stimmieuwu/)
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
