@@ -35,6 +35,6 @@ Right now I'm particularly interested in studying advanced web development, data
 - 📃 Taking photowalks, writing
 - 🤝 Meeting new people
 - 🎬 Watching and analyzing films. I have an [IMDb page](https://www.imdb.com/name/nm12149035/)! 
-- [![My last film](https://letterboxd-badge.vercel.app/?username=your-username)](https://letterboxd.com/your-username/)
+- [![My last film](https://letterboxd-badge.vercel.app/?username=stimmie)](https://letterboxd.com/stimmie/)
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
