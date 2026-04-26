@@ -30,6 +30,8 @@ Right now I'm particularly interested in studying advanced web development, data
 - Python
 
 # Hobbies, Fun Facts
+- 💻 I built the PC I use until now by myself when I was 16 years old!
+- 👒 Currently using Fedora Linux as my daily driver
 - 🚌 Travelling, commuting around Metro Manila. I've visited (alighted and explored) all 51 LRT and MRT stations!
 - 🏋️‍♀️ Going to the gym (SBD: 100, 60, 150)
 - 📃 Taking photowalks, writing
