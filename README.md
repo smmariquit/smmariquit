@@ -1,7 +1,6 @@
 # It's called a hustle, sweetheart!
 
 Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might know me better as Stimmie. 
-- I own a Minecraft server called [The Crib](crib.stimmie.dev)!
 - Former Lead @ [HearthCraft](https://hearthcraft.stimmie.dev), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
 - Co-founder of [Pizza & Friends](https://joinpizza.fun), a not-so-serious tech community.
 - Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jan 2026)
