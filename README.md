@@ -38,3 +38,7 @@ Right now I'm particularly interested in studying advanced web development, data
 - 🎬 Watching and analyzing films. I have an [IMDb page](https://www.imdb.com/name/nm12149035/)! 
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
+
+
+---
+*If this project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
