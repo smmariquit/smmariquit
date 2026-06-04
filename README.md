@@ -1,4 +1,4 @@
-# It's called a hustle, sweetheart!
+# never lose your child-like sense of wonder!
 
 Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might know me better as Stimmie. 
 - Former Lead @ [HearthCraft](https://hearthcraft.stimmie.dev), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
