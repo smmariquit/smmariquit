@@ -23,6 +23,7 @@ And some other initiatives that aren't necessarily orgs :)
 - Founder @ UPLB DX Student Volunteer Group
 - Founder @ UPLB ICS Students' Discord
 - Tech & Administration, @ UPLB Batch 2024, 2025, and 2026 Freshies' Server
+- I get invited to talk and do [workshops](https://workshops.stimmie.dev/) sometimes! 
 
 Right now I'm particularly interested in studying advanced web development, data science, and game development! I also like building stupid projects for the fun and memes. 
 
@@ -40,10 +41,11 @@ Right now I'm particularly interested in studying advanced web development, data
 - 🏋️‍♀️ Going to the gym (SBD: 100, 60, 150)
 - 📃 Taking photowalks, writing
 - 🤝 Meeting new people
+- 🐛 My first ever technical failure was not 
 - 🎬 Watching and analyzing films. I have an [IMDb page](https://www.imdb.com/name/nm12149035/)! 
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
 
 
 ---
-*If this project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
+*If any of my projects project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
