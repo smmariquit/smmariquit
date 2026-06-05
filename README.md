@@ -14,6 +14,7 @@ Some other chunk of my time is spent in my college organizations, volunteering, 
 - Internals @ UPLB Data Science Guild
 - Finance @ UPLB Gavel Club, affiliate of [Toastmasters International](https://www.toastmasters.org/)
 - Comp Prog @ [UP Algorithms Plus Plus](https://github.com/UP-Algorithm-Plus-Plus)
+- Member @ UPLB Eliens, a competitive programming group under UPLB
 - START - DOST, an organization for [DOST-SEI](https://sei.dost.gov.ph/) scholars in the field of tech
 - Volunteer @ [Data Engineering Pilipinas](https://dataengineering.ph/)
 - Volunteer @ [UPLB Ugnayan ng Pahinungod](https://pahinungod.up.edu.ph/)
