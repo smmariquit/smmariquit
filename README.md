@@ -3,7 +3,7 @@
 Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might know me better as Stimmie. 
 - Former Lead @ [HearthCraft](https://hearthcraft.stimmie.dev), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
 - Co-founder of [Pizza & Friends](https://joinpizza.fun), a not-so-serious tech community.
-- Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jan 2026)
+- Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jun 2026)
 - Joined and organized 30+ hackathons, game jams, and design challenges—met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
 
 I spend _some_ of my time finishing my Bachelor of Science degree at the [University of the Philippines](https://up.edu.ph/). 
@@ -16,8 +16,13 @@ Some other chunk of my time is spent in my college organizations, volunteering, 
 - Comp Prog @ [UP Algorithms Plus Plus](https://github.com/UP-Algorithm-Plus-Plus)
 - START - DOST, an organization for [DOST-SEI](https://sei.dost.gov.ph/) scholars in the field of tech
 - Volunteer @ [Data Engineering Pilipinas](https://dataengineering.ph/)
-- Member @ [ASES Manila](https://www.facebook.com/asesmnl/)
 - Volunteer @ [UPLB Ugnayan ng Pahinungod](https://pahinungod.up.edu.ph/)
+- Member @ [ASES Manila](https://www.facebook.com/asesmnl/)
+
+And some other initiatives that aren't necessarily orgs :) 
+- Founder @ UPLB DX Student Volunteer Group
+- Founder @ UPLB ICS Students' Discord
+- Tech & Administration, @ UPLB Batch 2024, 2025, and 2026 Freshies' Server
 
 Right now I'm particularly interested in studying advanced web development, data science, and game development! I also like building stupid projects for the fun and memes. 
 
