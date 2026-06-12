@@ -51,13 +51,4 @@ Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/
 
 
 ---
-*If any of my projects project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) ☕*
-
-## 📊 Current State of the Code
-- **Tech Stack:** Static / Basic Scripts
-- **Repository Size:** 6 tracked files
-- **Latest Update:** `8069cb2 chore: add stale issue and PR validators`
-
-
----
-*☕ If you found this project useful, you can support my work at [kape.stimmie.dev](https://kape.stimmie.dev)!*
+*If any of my projects project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) 
