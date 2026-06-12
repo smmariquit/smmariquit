@@ -44,7 +44,7 @@ Right now I'm particularly interested in studying advanced web development, data
 - 🏋️‍♀️ Going to the gym (SBD: 100, 60, 150)
 - 📃 Taking photowalks, writing
 - 🤝 Meeting new people
-- 🐛 My first ever technical failure was not 
+- 🐛 My first ever technical failure was keeping my VM at the default password and finding out it became part of a botnet attacking a Russian IP
 - 🎬 Watching and analyzing films. I have an [IMDb page](https://www.imdb.com/name/nm12149035/)! 
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
