@@ -19,6 +19,7 @@ Some other chunk of my time is spent in my college organizations, volunteering, 
 - Member @ UPLB Eliens, a competitive programming group under UPLB
 - START - DOST, an organization for [DOST-SEI](https://sei.dost.gov.ph/) scholars in the field of tech
 - Volunteer @ [Data Engineering Pilipinas](https://dataengineering.ph/)
+- UI/UX Volunteer @ [DEVCON Manila](https://devcon.ph/manila/)
 - Volunteer @ [UPLB Ugnayan ng Pahinungod](https://pahinungod.up.edu.ph/)
 - Member @ [ASES Manila](https://www.facebook.com/asesmnl/)
 
