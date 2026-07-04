@@ -50,6 +50,5 @@ Right now I'm particularly interested in studying advanced web development, data
 
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
 
-
 ---
 *If any of my projects project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) 
