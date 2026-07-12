@@ -4,14 +4,14 @@ Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might kn
 - Right now, I own a Minecraft server called [The Crib](https://crib.stimmie.dev)!
 - Former Lead @ [HearthCraft](https://hearthcraft.stimmie.dev), a survival Minecraft server that ran 6 years (incl. the pandemic) and became a safe space for 10,000+ players
 - Co-founder of [Pizza & Friends](https://joinpizza.fun), a not-so-serious tech community.
-- Founder of [UPLBTools](https://github.com/uplbtools) — open source tools for UPLB ([uplbtools.me](https://uplbtools.me)).
-- Engineering @ [Navegante](https://navegante.app) (Jun 2026–present)
-- Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jun 2026)
-- Joined and organized 30+ hackathons, game jams, and design challenges—met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
+- Founder of [UPLBTools](https://github.com/uplbtools): open source tools for UPLB ([uplbtools.me](https://uplbtools.me)).
+- Engineering @ [Navegante](https://navegante.app) (Jun 2026-present)
+- Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025-Jun 2026)
+- Joined and organized 30+ hackathons, game jams, and design challenges, and met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
 
 I spend _some_ of my time finishing my Bachelor of Science degree at the [University of the Philippines](https://up.edu.ph/). 
 
-Some other chunk of my time goes to campus orgs, volunteering, running, films, and actually living life — [ACSS-UPLB](https://v2.acssuplb.org/), UP Data Science Society, UPLB DSG, Gavel Club, [UP Algorithms++](https://github.com/UP-Algorithm-Plus-Plus), Eliens, START-DOST, [Data Engineering Pilipinas](https://dataengineering.ph/), DEVCON Manila, Pahinungod, ASES Manila; I also founded UPLB DX SVG & the UPLB ICS Discord, help run batch freshies servers, and do [workshops](https://workshops.stimmie.dev/) sometimes.
+Some other chunk of my time goes to campus orgs, volunteering, running, films, and actually living life: [ACSS-UPLB](https://v2.acssuplb.org/), UP Data Science Society, UPLB DSG, Gavel Club, [UP Algorithms++](https://github.com/UP-Algorithm-Plus-Plus), Eliens, START-DOST, [Data Engineering Pilipinas](https://dataengineering.ph/), DEVCON Manila, Pahinungod, ASES Manila; I also founded UPLB DX SVG & the UPLB ICS Discord, help run batch freshies servers, and do [workshops](https://workshops.stimmie.dev/) sometimes.
 
 Right now I'm particularly interested in studying advanced web development, data science, and game development! I also like building stupid projects for the fun and memes. 
 
