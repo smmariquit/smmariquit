@@ -17,13 +17,10 @@ Right now I'm particularly interested in studying advanced web development, data
 
 # Stack
 
-**Languages:** Python · TypeScript · JavaScript · C · C++ · SQL · Java · Dart
-
-**Web & mobile:** React · Next.js · Astro · Vite · React Native · HTML/CSS
-
-**Data:** Pandas · NumPy · scikit-learn · Jupyter
-
-**Tooling:** Git · Linux (Fedora) · GitHub Actions · REST APIs · Firebase
+- **Languages:** Python, TypeScript, JavaScript, C, C++, SQL, Java, Dart
+- **Web & mobile:** React, Next.js, Astro, Vite, React Native, HTML/CSS
+- **Data:** Pandas, NumPy, scikit-learn, Jupyter
+- **Tooling:** Git, Linux (Fedora), GitHub Actions, REST APIs, Firebase
 
 # Hobbies, Fun Facts
 - 💻 I built the PC I use until now by myself when I was 16 years old!
