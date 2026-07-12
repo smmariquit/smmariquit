@@ -10,24 +10,7 @@ Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might kn
 
 I spend _some_ of my time finishing my Bachelor of Science degree at the [University of the Philippines](https://up.edu.ph/). 
 
-Some other chunk of my time is spent in my college organizations, volunteering, meeting new people, running, watching films, and living life. Here are the organizations I'm involved with
-- Academic Affairs @ [Alliance of Computer Science Students, UPLB](https://v2.acssuplb.org/)
-- Education & Research @ [UP Data Science Society](https://www.facebook.com/updatasciencesociety/)
-- Internals @ UPLB Data Science Guild
-- Finance @ UPLB Gavel Club, affiliate of [Toastmasters International](https://www.toastmasters.org/)
-- Comp Prog @ [UP Algorithms Plus Plus](https://github.com/UP-Algorithm-Plus-Plus)
-- Member @ UPLB Eliens, a competitive programming group under UPLB
-- START - DOST, an organization for [DOST-SEI](https://sei.dost.gov.ph/) scholars in the field of tech
-- Volunteer @ [Data Engineering Pilipinas](https://dataengineering.ph/)
-- UI/UX Volunteer @ [DEVCON Manila](https://devcon.ph/manila/)
-- Volunteer @ [UPLB Ugnayan ng Pahinungod](https://pahinungod.up.edu.ph/)
-- Member @ [ASES Manila](https://www.facebook.com/asesmnl/)
-
-And some other initiatives that aren't necessarily orgs :) 
-- Founder @ UPLB DX Student Volunteer Group
-- Founder @ UPLB ICS Students' Discord
-- Tech & Administration, @ UPLB Batch 2024, 2025, and 2026 Freshies' Server
-- I get invited to talk and do [workshops](https://workshops.stimmie.dev/) sometimes! 
+Some other chunk of my time goes to campus orgs, volunteering, running, films, and actually living life — [ACSS-UPLB](https://v2.acssuplb.org/), UP Data Science Society, UPLB DSG, Gavel Club, [UP Algorithms++](https://github.com/UP-Algorithm-Plus-Plus), Eliens, START-DOST, [Data Engineering Pilipinas](https://dataengineering.ph/), DEVCON Manila, Pahinungod, ASES Manila; I also founded UPLB DX SVG & the UPLB ICS Discord, help run batch freshies servers, and do [workshops](https://workshops.stimmie.dev/) sometimes.
 
 Right now I'm particularly interested in studying advanced web development, data science, and game development! I also like building stupid projects for the fun and memes. 
 
