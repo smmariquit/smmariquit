@@ -15,12 +15,15 @@ Some other chunk of my time goes to campus orgs, volunteering, running, films, a
 
 Right now I'm particularly interested in studying advanced web development, data science, and game development! I also like building stupid projects for the fun and memes. 
 
-# Languages 
-- HTML + CSS
-- JavaScript + TypeScript
-- C, C++
-- SQL
-- Python
+# Stack
+
+**Languages:** Python · TypeScript · JavaScript · C · C++ · SQL · Java · Dart
+
+**Web & mobile:** React · Next.js · Astro · Vite · React Native · HTML/CSS
+
+**Data:** Pandas · NumPy · scikit-learn · Jupyter
+
+**Tooling:** Git · Linux (Fedora) · GitHub Actions · REST APIs · Firebase
 
 # Hobbies, Fun Facts
 - 💻 I built the PC I use until now by myself when I was 16 years old!
@@ -35,4 +38,4 @@ Right now I'm particularly interested in studying advanced web development, data
 Reach me at semariquit@gmail.com or at [in/stimmie](https://www.linkedin.com/in/stimmie/)
 
 ---
-*If any of my projects project helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) 
+*If any of my projects helped you out, consider [treating me to a coffee](https://kape.stimmie.dev) 
