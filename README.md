@@ -13,6 +13,7 @@ Hi! I'm **Simonee Ezekiel Mariquit** (Stimmie): CS @ [UPLB](https://up.edu.ph/),
 **Teach & speak**
 - [Tutoring](https://tutor.stimmie.dev): math, CS, and programming (online or Laguna)
 - [Workshops & talks](https://workshops.stimmie.dev), plus my [hackathon guide](https://workshops.stimmie.dev/hackathon-guide)
+- **Open to speaking invites** on ML, data science, hackathons, agile, and student dev life. Email [semariquit@gmail.com](mailto:semariquit@gmail.com).
 
 **Community**
 - Co-founder @ [Pizza & Friends](https://joinpizza.fun)
