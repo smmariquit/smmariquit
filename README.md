@@ -20,6 +20,11 @@ Hi! I'm **Simonee Ezekiel Mariquit** (Stimmie): CS @ [UPLB](https://up.edu.ph/),
 - [The Crib](https://crib.stimmie.dev) (Minecraft), former lead @ [HearthCraft](https://hearthcraft.stimmie.dev)
 - 30+ hackathons and game jams organized or joined
 
+**Writing**
+- [The Death of the Easter Egg](https://www.stimmie.dev/blog/the-death-of-the-easter-egg), on why nobody hides flight simulators in spreadsheets anymore. Also on [Dev.to](https://dev.to/stimmie/the-death-of-the-easter-egg-25kl), [Medium](https://medium.com/@stimmieuwu/the-death-of-the-easter-egg-cde1ef47a66b), [Hashnode](https://stimmie.hashnode.dev/the-death-of-the-easter-egg)
+- [Privacy tools explained with Among Us](https://medium.com/@stimmieuwu/privacy-tools-explained-with-among-us-6d8a0bd4179c), adblockers, Privacy Badger, and LocalCDN as crewmates
+- More at [stimmie.dev/blog](https://www.stimmie.dev/blog)
+
 **Elsewhere**
 - [Codeforces](https://codeforces.com/profile/manilaboi) · semariquit@gmail.com · [LinkedIn](https://www.linkedin.com/in/stimmie/)
 
