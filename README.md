@@ -22,7 +22,7 @@ Hi! I'm **Simonee Ezekiel Mariquit** (Stimmie): CS @ [UPLB](https://up.edu.ph/),
 
 **Writing**
 - [The Death of the Easter Egg](https://www.stimmie.dev/blog/the-death-of-the-easter-egg), on why nobody hides flight simulators in spreadsheets anymore. Also on [Dev.to](https://dev.to/stimmie/the-death-of-the-easter-egg-25kl), [Medium](https://medium.com/@stimmieuwu/the-death-of-the-easter-egg-cde1ef47a66b), [Hashnode](https://stimmie.hashnode.dev/the-death-of-the-easter-egg)
-- [Privacy tools explained with Among Us](https://medium.com/@stimmieuwu/privacy-tools-explained-with-among-us-6d8a0bd4179c), adblockers, Privacy Badger, and LocalCDN as crewmates
+- [Privacy tools explained with Among Us](https://www.stimmie.dev/blog/privacy-tools-explained-with-among-us), adblockers, Privacy Badger, and LocalCDN as crewmates. Also on [Medium](https://medium.com/@stimmieuwu/privacy-tools-explained-with-among-us-6d8a0bd4179c)
 - More at [stimmie.dev/blog](https://www.stimmie.dev/blog)
 
 **Elsewhere**
