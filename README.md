@@ -21,7 +21,7 @@ Hi! I'm **Simonee Ezekiel Mariquit** (Stimmie): CS @ [UPLB](https://up.edu.ph/),
 - 30+ hackathons and game jams organized or joined
 
 **Writing**
-- [The Death of the Easter Egg](https://www.stimmie.dev/blog/the-death-of-the-easter-egg), on why nobody hides flight simulators in spreadsheets anymore. Also on [Dev.to](https://dev.to/stimmie/the-death-of-the-easter-egg-25kl), [Medium](https://medium.com/@stimmieuwu/the-death-of-the-easter-egg-cde1ef47a66b), [Hashnode](https://stimmie.hashnode.dev/the-death-of-the-easter-egg)
+- [The Death of the Easter Egg](https://www.stimmie.dev/blog/the-death-of-the-easter-egg), on why nobody hides flight simulators in spreadsheets anymore. Also on [Dev.to](https://dev.to/stimmie/the-death-of-the-easter-egg-25kl), [Medium](https://medium.com/@stimmieuwu/the-death-of-the-easter-egg-cde1ef47a66b), [Hashnode](https://stimmie.hashnode.dev/the-death-of-the-easter-egg), [LinkedIn](https://www.linkedin.com/pulse/death-easter-egg-simon-ezekiel-mariquit-ebgze/)
 - [Privacy tools explained with Among Us](https://www.stimmie.dev/blog/privacy-tools-explained-with-among-us), adblockers, Privacy Badger, and LocalCDN as crewmates. Also on [Dev.to](https://dev.to/stimmie/privacy-tools-explained-with-among-us-2j85), [Hashnode](https://stimmie.hashnode.dev/privacy-tools-explained-with-among-us), [Medium](https://medium.com/@stimmieuwu/privacy-tools-explained-with-among-us-6d8a0bd4179c)
 - More at [stimmie.dev/blog](https://www.stimmie.dev/blog)
 
