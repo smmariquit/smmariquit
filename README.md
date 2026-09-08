@@ -6,7 +6,8 @@ Hi! My name is Simonee Ezekiel Mariquit, though if you come from UP you might kn
 - Co-founder of [Pizza & Friends](https://joinpizza.fun), a not-so-serious tech community.
 - Engineering @ [Navegante](https://navegante.app) (Jun 2026–present)
 - Engineering @ [E-Konsulta Medical Clinic](https://ekonsultaclinic.ph) (Apr 2025–Jun 2026)
-- Joined and organized 30+ hackathons, game jams, and design challenges—met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
+- Joined and organized 30+ hackathons, game jams, and design challenges. Met tons of people, heard brilliant (and not-so-brilliant) ideas, and explored new tech! I synthesize my learnings into [my hackathon guide](http://workshops.stimmie.dev/hackathon-guide)!
+- The game jam builds live on [itch.io](https://stimmieuwu.itch.io), and the browser games I make for fun are at [fun.stimmie.dev](https://fun.stimmie.dev)
 
 I spend _some_ of my time finishing my Bachelor of Science degree at the [University of the Philippines](https://up.edu.ph/). 
 
